@@ -18,6 +18,7 @@ bo_be_domain = "bo-be.betmnl-uat.vip"
 jobproc_domain = "jobproc.betmnl-uat.vip"
 socket_domain  = "socket.betmnl-uat.vip"
 cert_id = "52346-ap-southeast-1"
+ami_id = "ubuntu_20_04_x64_20G_alibase_20231019.vhd"
 
 // Back Office
 #bo_fe_ami_id = "aliyun_3_x64_20G_qboot_alibase_20230727.vhd"

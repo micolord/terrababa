@@ -62,3 +62,6 @@ variable "cert_id" {
     description = "Cert ID"
 }
 
+variable "ami_id" {
+    description = "AMI ID"
+}
